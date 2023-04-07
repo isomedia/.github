@@ -1,2 +1,2 @@
-# Isomedia - Repair center for mopbile devices
+# Isomedia - Repair center for mobile devices
 # DIS-Connect
